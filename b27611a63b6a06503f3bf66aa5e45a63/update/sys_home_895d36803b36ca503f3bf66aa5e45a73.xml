@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_home">
+    <sys_home action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <language>en</language>
+        <order>100</order>
+        <published>2024-06-10</published>
+        <short_description>About ${gs.getProperty('glide.product.name', 'ServiceNow')}</short_description>
+        <sys_class_name>sys_home</sys_class_name>
+        <sys_created_by>admsza</sys_created_by>
+        <sys_created_on>2024-06-10 11:08:12</sys_created_on>
+        <sys_id>895d36803b36ca503f3bf66aa5e45a73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>About ${gs.getProperty('glide.product.name', 'ServiceNow')}</sys_name>
+        <sys_package display_value="RBI Theme" source="b27611a63b6a06503f3bf66aa5e45a63">b27611a63b6a06503f3bf66aa5e45a63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RBI Theme">b27611a63b6a06503f3bf66aa5e45a63</sys_scope>
+        <sys_update_name>sys_home_895d36803b36ca503f3bf66aa5e45a73</sys_update_name>
+        <sys_updated_by>admsza</sys_updated_by>
+        <sys_updated_on>2024-06-10 11:08:12</sys_updated_on>
+        <text><![CDATA[<p>Welcome to RBI Group&#39;s ServiceNow Instance. </p>
+<p>ServiceNow modernizes, streamlines, and transforms your digital workflow, all on a single cloud platform.</p>
+<p>You can access ITSM, GITAM, Vulnerability Response, Security Incident processes here on a complete integrated platform. Enjoy ...</p>
+<p><strong><span style="font-size: 10pt;">Please use PING to authenticate (&#34;Loging with SSO&#34;)</span></strong></p>]]></text>
+    </sys_home>
+</record_update>

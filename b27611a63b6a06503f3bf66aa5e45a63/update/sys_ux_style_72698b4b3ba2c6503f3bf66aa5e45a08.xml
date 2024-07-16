@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="INSERT_OR_UPDATE">
+        <name>Colors Override</name>
+        <style>{"colorGenerationVersion":"V1","base":{&#13;
+    "--esm-color_header--background-color": "254,230,1",&#13;
+    "--esm-color_header--hover": "254,242,160"&#13;
+},&#13;
+  "properties": {  &#13;
+&#13;
+    "--now-unified-nav_menu--background-color":"200,199,193",  &#13;
+    "--now-unified-nav_menu-subitem--color":"57,52,0",  &#13;
+    "--now-unified-nav_menu--background-color-alpha":"0.8",&#13;
+    "--now-unified-nav_menu--background-image-alpha":"0.3",&#13;
+      &#13;
+      &#13;
+    "--now-dropdown-list--background-color--focus":"--esm-color_header--background-color",&#13;
+    "--now-dropdown-list--color":"0,0,0",&#13;
+    "--now-loader_icon--color":"--esm-color_header--background-color",&#13;
+    "--now-tabs--border-color--selected":"--esm-color_header--background-color",&#13;
+    "--now-tabs--border-color--hover": "214, 194, 0",&#13;
+    "--now-tabs--color":"--now-color_text--tertiary",&#13;
+    "--now-tabs--color--selected": "0,0,0",  &#13;
+    "--now-tabs--color--hover": "128, 128, 128",&#13;
+    "--now-form-field--border-color--focus": "254,230,1",&#13;
+    "--now-form-field--border-color--hover": "234,210,1",&#13;
+    "--now-unified-nav_header--background-color":"--esm-color_header--background-color",&#13;
+    "--now-unified-nav_nav-menu-trigger--background-color--hover":"234,210,1",&#13;
+    "--now-unified-nav_nav-menu-trigger--background-color--active":"214,194,0",&#13;
+    "--now-unified-nav_contextual-app-pill--background-color":"--esm-color_header--hover",&#13;
+    "--now-unified-nav_menu-item--border-size":"0px",&#13;
+    "--now-unified-nav_menu-subitem--border-size":"0px",&#13;
+    "--now-unified-nav_menu-filter-result-mark--color":"191,104,82",&#13;
+    "--now-unified-nav_favorite-icon--color":"191,104,82",&#13;
+    "--now-unified-nav_menu-filter--background-color":"240, 240, 240",&#13;
+    "--now-unified-nav_menu-filter--background-color--hover":"255,251,230",&#13;
+    "--now-unified-nav_menu-filter--background-color--opened":"255,255,255",&#13;
+    "--now-unified-nav_menu-filter--color":"0,0,0",&#13;
+    "--now-unified-nav_menu-filter--color--hover":"20,20,20",&#13;
+    "--now-unified-nav_menu-filter--color--opened":"0,0,0",&#13;
+    "--now-unified-nav_menu-filter--color--placeholder":"150,150,130",&#13;
+    "--now-unified-nav_menu-filter--color--placeholder--focus":"50,50,50",&#13;
+    "--now-unified-nav_menu-filter--border-color":"170,170,170",&#13;
+    "--now-unified-nav_menu-filter--border-color--opened":"--esm-color_header--background-color"&#13;
+}}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>admsza</sys_created_by>
+        <sys_created_on>2024-06-07 09:26:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>72698b4b3ba2c6503f3bf66aa5e45a08</sys_id>
+        <sys_mod_count>60</sys_mod_count>
+        <sys_name>Colors Override</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RBI Theme" source="b27611a63b6a06503f3bf66aa5e45a63">b27611a63b6a06503f3bf66aa5e45a63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RBI Theme">b27611a63b6a06503f3bf66aa5e45a63</sys_scope>
+        <sys_update_name>sys_ux_style_72698b4b3ba2c6503f3bf66aa5e45a08</sys_update_name>
+        <sys_updated_by>admsza</sys_updated_by>
+        <sys_updated_on>2024-06-14 07:43:44</sys_updated_on>
+        <type>core</type>
+    </sys_ux_style>
+</record_update>

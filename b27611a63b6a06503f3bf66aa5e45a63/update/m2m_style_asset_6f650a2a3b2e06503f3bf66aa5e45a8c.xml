@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_style_asset">
+    <m2m_style_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Amalia">6485ca2a3b2e06503f3bf66aa5e45ac7</asset>
+        <properties>{&#13;
+  "font-style": "italic",&#13;
+  "font-weight": "400"&#13;
+}</properties>
+        <style display_value="Typography">4c1169a23baa06503f3bf66aa5e45a13</style>
+        <sys_class_name>m2m_style_asset</sys_class_name>
+        <sys_created_by>admsza</sys_created_by>
+        <sys_created_on>2024-06-05 15:12:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6f650a2a3b2e06503f3bf66aa5e45a8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="RBI Theme" source="b27611a63b6a06503f3bf66aa5e45a63">b27611a63b6a06503f3bf66aa5e45a63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RBI Theme">b27611a63b6a06503f3bf66aa5e45a63</sys_scope>
+        <sys_update_name>m2m_style_asset_6f650a2a3b2e06503f3bf66aa5e45a8c</sys_update_name>
+        <sys_updated_by>admsza</sys_updated_by>
+        <sys_updated_on>2024-06-05 15:12:57</sys_updated_on>
+    </m2m_style_asset>
+</record_update>

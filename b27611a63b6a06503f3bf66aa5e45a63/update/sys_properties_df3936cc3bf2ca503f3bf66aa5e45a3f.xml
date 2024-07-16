@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Modifies the secondary colors of the login mountain graphic.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.polaris.login.style.mountain_secondary</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admsza</sys_created_by>
+        <sys_created_on>2024-06-10 10:50:07</sys_created_on>
+        <sys_id>df3936cc3bf2ca503f3bf66aa5e45a3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.polaris.login.style.mountain_secondary</sys_name>
+        <sys_package display_value="RBI Theme" source="b27611a63b6a06503f3bf66aa5e45a63">b27611a63b6a06503f3bf66aa5e45a63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RBI Theme">b27611a63b6a06503f3bf66aa5e45a63</sys_scope>
+        <sys_update_name>sys_properties_df3936cc3bf2ca503f3bf66aa5e45a3f</sys_update_name>
+        <sys_updated_by>admsza</sys_updated_by>
+        <sys_updated_on>2024-06-10 10:50:07</sys_updated_on>
+        <type>color</type>
+        <value>103,208,171</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=df3936cc3bf2ca503f3bf66aa5e45a3f"/>
+</record_update>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>Default Article</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>ADMSZA</sys_created_by>
+        <sys_created_on>2024-07-12 11:36:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8ba63fdeeb570a10ebb4f4de0bd0cd17</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Default Article</sys_name>
+        <sys_package display_value="RBI Theme" source="b27611a63b6a06503f3bf66aa5e45a63">b27611a63b6a06503f3bf66aa5e45a63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RBI Theme">b27611a63b6a06503f3bf66aa5e45a63</sys_scope>
+        <sys_update_name>sys_template_8ba63fdeeb570a10ebb4f4de0bd0cd17</sys_update_name>
+        <sys_updated_by>ADMSZA</sys_updated_by>
+        <sys_updated_on>2024-07-12 13:02:46</sys_updated_on>
+        <table>kb_knowledge</table>
+        <template>article_type=text^text=&lt;table style="border: 1px solid #CCCCCC;" width="100%" cellspacing="0" cellpadding="0" align="center"&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td width="100%"&gt;&#13;
+&lt;table border="0" width="100%" cellspacing="0" cellpadding="0"&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td valign="top" width="1%"&gt;&lt;img src="rbi_doc_header_logo.jpg" width="278" height="145" /&gt;&lt;/td&gt;&#13;
+&lt;td valign="top" width="100%"&gt;&lt;img src="rbi_doc_header_fill.jpg" width="100%" height="145" /&gt;&lt;/td&gt;&#13;
+&lt;td valign="top" width="1%"&gt;&lt;img src="rbi_doc_header_right.jpg" width="50" height="145" /&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td style="font-family: 'Amalia'; font-size: 28px; font-weight: bold; padding-top: 5px; padding-bottom: 20px;" align="center" valign="top" width="100%"&gt;Edit Title ...&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td style="font-family: Amalia,Verdana,Arial; font-size: 16px;" align="left" valign="top" width="100%"&gt;Start writing text here ...&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;^EQ</template>
+        <user display_value="">fbfb692beb758210ebb4f4de0bd0cd66</user>
+        <view/>
+    </sys_template>
+</record_update>
